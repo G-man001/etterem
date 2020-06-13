@@ -47,6 +47,11 @@ li a:hover {
   {
     border-style: groove;
   }
+  
+  #etlap p
+  {
+    margin-left: 17px;
+  }
   #etlap
   {
     
@@ -60,8 +65,9 @@ li a:hover {
   
   #etlap td
   {
-    
-    border-style: ridge;
+    border-radius: 15px;
+    border-style: groove;
+    border-color: firebrick;
   }
   #etlap td:hover
   {
